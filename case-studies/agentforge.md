@@ -25,4 +25,4 @@ Benchmark 使用确定性 harness；正确拒绝可以满足场景合同。48 �
 
 FactoryPilot 展示面向质量工程师的应用产品；AgentForge 展示面向 Agent 工程与平台团队的基础设施产品。两者的指标、用户和验证范围分别解释，不相互代用。
 
-[公开工程仓库与完整证据](https://github.com/changjiu99999-max/agentforge) · [Product First README](https://github.com/changjiu99999-max/agentforge#readme)
+[公开工程仓库与完整证据](https://github.com/changjiu99999-max/agentforge) · [Product First README](https://github.com/changjiu99999-max/agentforge/blob/main/README.md)
